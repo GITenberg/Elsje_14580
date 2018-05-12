@@ -1,0 +1,26 @@
+_repo: Elsje_14580
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 14580-h/img/cover.jpg
+creator:
+  author:
+    agent_name: Kuiper, A. C.
+    birthdate: 1860
+    deathdate: 1934
+    gutenberg_agent_id: '3919'
+    url: http://www.gutenberg.org/2009/agents/3919
+description: ''
+gutenberg_issued: '2005-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14580'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, Dutch'
+- !lcc 'PZ'
+title: Elsje
+url: http://www.gutenberg.org/ebooks/14580
